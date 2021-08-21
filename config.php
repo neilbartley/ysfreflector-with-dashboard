@@ -3,7 +3,7 @@
 # Be careful, when manually editing this!
 
 date_default_timezone_set('UTC');
-define("YSFREFLECTORLOGPATH", "/app/log");
+define("YSFREFLECTORLOGPATH", "/app/logs");
 define("YSFREFLECTORLOGPREFIX", "YSFReflector");
 define("YSFREFLECTORINIPATH", "/app/");
 define("YSFREFLECTORINIFILENAME", "YSFReflector.ini");
